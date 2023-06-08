@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/g101/PA7/Assignment7/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -O3 -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c D:\\g101\\PA7\\Assignment7\\main.cpp",
+  "file": "D:/g101/PA7/Assignment7/main.cpp"
+},
+{
+  "directory": "D:/g101/PA7/Assignment7/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -O3 -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Vector.cpp.obj -c D:\\g101\\PA7\\Assignment7\\Vector.cpp",
+  "file": "D:/g101/PA7/Assignment7/Vector.cpp"
+},
+{
+  "directory": "D:/g101/PA7/Assignment7/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -O3 -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Scene.cpp.obj -c D:\\g101\\PA7\\Assignment7\\Scene.cpp",
+  "file": "D:/g101/PA7/Assignment7/Scene.cpp"
+},
+{
+  "directory": "D:/g101/PA7/Assignment7/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -O3 -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\BVH.cpp.obj -c D:\\g101\\PA7\\Assignment7\\BVH.cpp",
+  "file": "D:/g101/PA7/Assignment7/BVH.cpp"
+},
+{
+  "directory": "D:/g101/PA7/Assignment7/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -O3 -fopenmp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Renderer.cpp.obj -c D:\\g101\\PA7\\Assignment7\\Renderer.cpp",
+  "file": "D:/g101/PA7/Assignment7/Renderer.cpp"
+}
+]
